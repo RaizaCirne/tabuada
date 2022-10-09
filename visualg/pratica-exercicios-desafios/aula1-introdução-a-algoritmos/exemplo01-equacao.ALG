@@ -1,4 +1,4 @@
-Algoritmo "Exemplo01"
+Algoritmo "Exemplo01-Equacao"
 // Curso   : [Algoritmo]
 // Professor   : Gustavo Guanabara
 // Descrição   : Exemplo 01 - Equações do 2º grau

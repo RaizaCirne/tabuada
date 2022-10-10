@@ -2,8 +2,9 @@ Algoritmo "Exercicio02-Partida-Futebol"
 // Curso       : [Algoritmo]
 // Professor   : Gustavo Guanabara
 // Exercício 02: Uma partida de futebol
+// Utilizando: Estrutura SE
 // Autor(a)    : Raíza Cirne Braz
-// Data atual  : 09/10/2022
+// Data atual  : 10/10/2022
 Var
    // Seção de Declarações das variáveis
    B, M, D: Inteiro
@@ -16,7 +17,7 @@ Inicio
    Leia (B)
    Escreval ("Quantos gols do MADUREIRA? ")
    Leia (M)
-   //D <-
+   D <-  (B - M)
    // Pesquisar conta de Diferença
    // É possível usar estrutura escolha
    // Fazer duas situações diferentes: Usando o SE e usando o ESCOLHA

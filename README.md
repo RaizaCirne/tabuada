@@ -56,11 +56,11 @@ https://github.com/RaizaCirne/tabuada/assets/109912543/57d39c73-706d-48fd-86d3-f
 
 ## :desktop_computer: Desktop design
 
-![Design preview desktop](./assets/images/tabuada-desktop.png)
+![Design preview desktop](./assets/images/tabuada-desktop.jpeg)
 
 ## :iphone: Mobile design
 
-![Design preview desktop](./assets/images/tabuada-mobile.png)
+![Design preview desktop](./assets/images/tabuada-mobile.jpeg)
 
 <br />
 

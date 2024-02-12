@@ -33,7 +33,7 @@ Realização de integração entre HTML, CSS e JavaScript, além da utilização
 <br />
 
 - JavaScript
-- Variáveis númericas
+- Variáveis no SASS
 - Estruturas condicionais
 - Document Object Model (DOM)
 - Media queries

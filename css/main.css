@@ -30,12 +30,28 @@
   text-align: center;
   width: 100%;
 }
+@media only screen and (max-width: 767px) {
+  * > body > div.container {
+    width: 80%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  * > body > div.container {
+    padding: 3rem;
+    width: 100%;
+  }
+}
 * > body > div.container > h1 {
   color: #000;
   font-size: 1.8rem;
   font-weight: 400;
   text-align: center;
   width: 100%;
+}
+@media only screen and (max-width: 767px) {
+  * > body > div.container > h1 {
+    font-size: 1.4rem;
+  }
 }
 * > body > div.container > h1 > input {
   border: 0.063rem solid #646464;
@@ -46,6 +62,11 @@
   text-align: center;
   width: 100%;
   outline: 0;
+}
+@media only screen and (max-width: 767px) {
+  * > body > div.container > h1 > input {
+    padding: 0.2rem 0.5rem;
+  }
 }
 * > body > div.container > h1 > input:focus {
   border: 0.063rem solid var(--primary-color);
@@ -61,6 +82,11 @@
   text-align: center;
   width: 100%;
 }
+@media only screen and (max-width: 767px) {
+  * > body > div.container > .tabuada {
+    font-size: 1.2rem;
+  }
+}
 * > body > div.container > button {
   background-color: var(--primary-color);
   border-radius: 0.3rem;
@@ -68,7 +94,18 @@
   color: #fff;
   cursor: pointer;
   font-size: var(--primary-size);
+  font-weight: bold;
   max-width: 100px;
   padding: var(--primary-size);
   width: 100%;
+}
+@media only screen and (max-width: 767px) {
+  * > body > div.container > button {
+    padding: 0.5rem;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  * > body > div.container > button {
+    padding: 0.6rem;
+  }
 }/*# sourceMappingURL=main.css.map */

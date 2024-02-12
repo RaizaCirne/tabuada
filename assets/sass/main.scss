@@ -31,12 +31,24 @@
       text-align: center;
       width: 100%;
 
+      @include d(m) {
+        width: 80%;
+      }
+
+      @include d(t) {
+        padding: 3rem;
+        width: 100%;
+      }
+
       > h1 {
         color: #000;
         font-size: 1.8rem;
         font-weight: 400;
         text-align: center;
         width: 100%;
+        @include d(m) {
+          font-size: 1.4rem;
+        }
 
         > input {
           border: 0.063rem solid #646464;
@@ -47,6 +59,9 @@
           text-align: center;
           width: 100%;
           outline: 0; // eliminar borda preta
+          @include d(m) {
+            padding: .2rem .5rem;
+          }
         }
 
         > input:focus {
@@ -66,18 +81,29 @@
         margin: 1.5rem 0;
         text-align: center;
         width: 100%;
+        @include d(m) {
+          font-size: 1.2rem;
+        }
       }
 
       > button { 
-        background-color: var(--primary-color);;
+        background-color: var(--primary-color);
         border-radius: .3rem;
         border: none;
         color: #fff;
         cursor: pointer;
-        font-size: var(--primary-size);;
+        font-size: var(--primary-size);
+        font-weight: bold;
         max-width: 100px;
-        padding: var(--primary-size);;
+        padding: var(--primary-size);
         width: 100%;
+        @include d(m) {
+        padding: .5rem;
+        }
+  
+        @include d(t) {
+          padding: .6rem;
+        }
       }
     }
   }

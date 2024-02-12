@@ -68,7 +68,7 @@ https://github.com/RaizaCirne/tabuada/assets/109912543/57d39c73-706d-48fd-86d3-f
 
 <br />
 
-- Para acessar o site [Clique aqui](#)
+- Para acessar o site [Clique aqui](https://strong-pothos-30a6ea.netlify.app/)
 
 <br />
 
@@ -114,7 +114,7 @@ Abrir pasta no editor de código.
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](#)
+- Personal Page - [Raíza Cirne Braz](https://strong-pothos-30a6ea.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)

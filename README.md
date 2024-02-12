@@ -24,7 +24,7 @@ Este projeto consiste em uma calculadora projetada para tornar o aprendizado da 
 
 ## :trophy: Desafio <a name="#id03"></a>
 
-Realização de integração entre HTML, CSS e JavaScript, além da ytilização de Pré-processador CSS (SCSS) e Responsividade.
+Realização de integração entre HTML, CSS e JavaScript, além da utilização de Pré-processador CSS (SCSS) e Responsividade.
 
 ## :trophy: Aprendizado <a name="#id04"></a>
 

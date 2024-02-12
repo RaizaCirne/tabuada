@@ -1,7 +1,11 @@
+@import 'mixins';
+
+$gutter: 0;
+
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  @include border-box;
+  margin: $gutter;
+  padding: $gutter;
 
   > body {
     background-image: url(/assets/images/bg.jpg);

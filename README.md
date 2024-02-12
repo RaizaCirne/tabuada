@@ -19,7 +19,7 @@
 
 ## 🚀 Proposta <a name="id02"></a>
 
-Este projeto consiste em uma calculadora projetada para tornar o aprendizado da tabuada mais interativo e acessível. 
+Este projeto consiste em uma calculadora projetada para tornar o aprendizado da tabuada mais interativo e acessível.
 <br />
 
 ## :trophy: Desafio <a name="#id03"></a>

@@ -79,7 +79,7 @@ https://github.com/RaizaCirne/tabuada/assets/109912543/57d39c73-706d-48fd-86d3-f
 - JavaScript
 - SASS
 - CSS3
-- HTML4
+- HTML5
 
 <br />
 
